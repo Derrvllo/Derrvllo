@@ -8,6 +8,7 @@ I aim to continuously build on my expertise, stay current with industry advancem
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Setting up virtual environments               |                            |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Derrvllo/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
